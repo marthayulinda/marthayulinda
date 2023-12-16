@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marthayulinda
+- 👋 Hi, I’m Martha Tobing
 - 🌱 I’m currently studying at Del Institute of Technology
 - 👀 I’m interested in badminton
 - 📫 You can reach me via marthayulindatobing@gmail.com
