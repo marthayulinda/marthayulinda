@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/marthayulinda/](https://www.linkedin.com/in/marthayulinda/)
 
-- ⚡ Fun fact **I’m interested in badminton**
+- ⚡ Fun fact **I’m a badminton addict**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
