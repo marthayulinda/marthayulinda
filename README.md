@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Martha Tobing</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marthayulinda.marthayulinda&left_text=MyPageVisitors"/>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=B5651D&background=E0E0E000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Martha+Tobing!" />
+</h1>
+
 <h3 align="center">improving skills and knowledge is my main goal</h3>
 
 - 🔭 I’m currently studying at **Del Institute of Technology**
@@ -36,8 +41,16 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 
-<br />
+<hr>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marthayulinda&show_icons=true&locale=en&layout=compact" alt="marthayulinda" />
+<img align='center'
+  src="https://static.zerochan.net/Nero.%28Black.Clover%29.full.3616352.png"
+  alt="eyoo"
+  width="180"
+  height="180"/></p>
 
-### Now Playing 🎧
+<hr>
+Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/4itdqnrniv3vdzdos8mc2spm5?si=5299ffcbf9e34f50)</p>
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/4itdqnrniv3vdzdos8mc2spm5?si=5299ffcbf9e34f50)
+</p>
