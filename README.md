@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **marthayulindatobing@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/martha-yulinda-lbn-tobing-a15190315/](https://www.linkedin.com/in/martha-yulinda-lbn-tobing-a15190315/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/marthayulinda/](https://www.linkedin.com/in/marthayulinda/)
 
 - ⚡ Fun fact **I’m interested in badminton**
 
