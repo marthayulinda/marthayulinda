@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/marthayulinda](https://github.com/marthayulinda)
 
-- 📝 I infrequently write articles on [https://marthaytobing.blogspot.com/](https://marthaytobing.blogspot.com/)
+<!-- - 📝 I infrequently write articles on [https://marthaytobing.blogspot.com/](https://marthaytobing.blogspot.com/)-->
 
 - 📫 How to reach me **marthayulindatobing@gmail.com**
 
@@ -63,6 +63,7 @@ src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f674d57-69f2-475
   alt="megumi"
   width="auto"
   height="160"/>
+<!--
 <img align='center'
   src="https://static.zerochan.net/Nero.%28Black.Clover%29.full.3616352.png"
   alt="nero"
@@ -72,13 +73,13 @@ src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f674d57-69f2-475
   src="https://i.pinimg.com/originals/a1/de/fe/a1defe908d05fc39bf902842f8320eb7.png"
   alt="nero"
   width="auto"
-  height="180"/>
-</p>
+  height="180"/>-->
+    
+<!--</p>-->
+<!--<hr>-->
 
-<hr>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marthayulinda&show_icons=true&locale=en&layout=compact" alt="marthayulinda" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marthayulinda&show_icons=true&locale=en&layout=compact" alt="marthayulinda" />
 Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/4itdqnrniv3vdzdos8mc2spm5?si=5299ffcbf9e34f50)
-</p>
+</p>-->
