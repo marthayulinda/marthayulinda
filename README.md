@@ -63,21 +63,16 @@ src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f674d57-69f2-475
   alt="megumi"
   width="auto"
   height="160"/>
- <!-- <img align='center'
-src="https://i0.wp.com/i.pinimg.com/originals/1f/55/b4/1f55b476540bc10aabca70afe8c9b232.png"
-  alt="asta"
-  width="auto"
-  height="180"/>-->
-<!--<img align='center'
+<img align='center'
   src="https://static.zerochan.net/Nero.%28Black.Clover%29.full.3616352.png"
   alt="nero"
   width="180"
-  height="180"/>-->
-<!--<img align='center'
+  height="180"/>
+<img align='center'
   src="https://i.pinimg.com/originals/a1/de/fe/a1defe908d05fc39bf902842f8320eb7.png"
   alt="nero"
   width="auto"
-  height="180"/>-->
+  height="180"/>
 </p>
 
 <hr>
