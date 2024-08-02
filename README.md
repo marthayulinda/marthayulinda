@@ -76,10 +76,10 @@ src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f674d57-69f2-475
   height="180"/>-->
     
 <!--</p>-->
-<!--<hr>-->
+<hr>
 
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marthayulinda&show_icons=true&locale=en&layout=compact" alt="marthayulinda" />
-Now Playing 🎧
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marthayulinda&show_icons=true&locale=en&layout=compact" alt="marthayulinda" />
+<!--Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/4itdqnrniv3vdzdos8mc2spm5?si=5299ffcbf9e34f50)
 </p>-->
