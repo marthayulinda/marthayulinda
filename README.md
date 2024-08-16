@@ -1,5 +1,4 @@
 <!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marthayulinda.marthayulinda&left_text=MyPageVisitors"/>-->
-
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=B5651D&background=E0E0E000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Martha+Tobing!" />
 </h1>
@@ -42,6 +41,8 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 
 <hr>
+<details>
+    <summary><code><strong>Don't Open 🚫</strong></code></summary>
 <p>
 <img align='center'
 src="https://i0.wp.com/i.pinimg.com/originals/1f/55/b4/1f55b476540bc10aabca70afe8c9b232.png"
@@ -63,19 +64,8 @@ src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f674d57-69f2-475
   alt="megumi"
   width="auto"
   height="120"/>
-<!--
-<img align='center'
-  src="https://static.zerochan.net/Nero.%28Black.Clover%29.full.3616352.png"
-  alt="nero"
-  width="180"
-  height="180"/>
-<img align='center'
-  src="https://i.pinimg.com/originals/a1/de/fe/a1defe908d05fc39bf902842f8320eb7.png"
-  alt="nero"
-  width="auto"
-  height="180"/>-->
-    
-<!--</p>-->
+      <strong><p>Opss you've seen my fav characters (✿◕‿◕✿)</p></strong>
+</details>
 <hr>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marthayulinda&show_icons=true&locale=en&layout=compact" alt="marthayulinda" />
