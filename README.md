@@ -64,7 +64,7 @@ src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f674d57-69f2-475
   alt="megumi"
   width="auto"
   height="120"/>
-      <strong><p>Opss you've seen my fav characters (✿◕‿◕✿)</p></strong>
+      <strong><p>Opss you've seen my fav characters (✿◡‿◡)</p></strong>
 </details>
 <hr>
 
