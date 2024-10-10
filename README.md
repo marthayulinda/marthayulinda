@@ -7,8 +7,7 @@
 
 
 <hr>
-<details>
-    <summary><code><strong>Don't Open 🚫</strong></code></summary>
+
 <p>
 <img align='center'
 src="https://i0.wp.com/i.pinimg.com/originals/1f/55/b4/1f55b476540bc10aabca70afe8c9b232.png"
@@ -30,8 +29,8 @@ src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f674d57-69f2-475
   alt="megumi"
   width="auto"
   height="120"/>
-      <strong><p>Opss you've seen my fav characters (✿◡‿◡)</p></strong>
-</details>
+
+
 <hr>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marthayulinda&show_icons=true&locale=en&layout=compact" alt="marthayulinda" />
